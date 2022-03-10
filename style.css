@@ -8,7 +8,7 @@ img {
 }
 
 body {
-    display: flex;
+    display: fixed;
     justify-content:center;
     align-items: center;
     height: 100vh;
